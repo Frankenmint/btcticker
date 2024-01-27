@@ -1,7 +1,3 @@
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_e_e_b/)
-
 # Cryptocurrency ePaper Ticker 
 (supports all coins/currencies/exchanges listed on [CoinGecko](https://api.coingecko.com/api/v3/coins/list))
 
@@ -38,7 +34,7 @@ Now clone the required software (Waveshare libraries and this script)
 ```
 cd ~
 git clone https://github.com/waveshare/e-Paper
-git clone https://github.com/veebch/btcticker.git
+git clone https://github.com/frankenmint/btcticker.git
 ```
 Move to the `btcticker` directory, copy the example config to `config.yaml` and move the required part of the waveshare directory to the `btcticker` directory
 ```
